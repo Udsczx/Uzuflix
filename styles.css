@@ -1,0 +1,47 @@
+body {
+    background: orange;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 1px yellow;
+    padding: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.Chamada {
+    margin: 40px;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.Outros-feitos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.Feitos {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Outros-feitos img {
+    opacity: 0.7;
+    height: 200px;
+}
+
+.Outros-feitos img:hover {
+    opacity: 1.0;
+    border: 2px solid yellow;
+}
+
+.Feitos h3 {
+    color: yellow;
+}
