@@ -45,3 +45,10 @@ h3 {
 .Feitos h3 {
     color: yellow;
 }
+
+.Redirecionamento {
+    background: yellow;
+    color: black;
+    border: 2px solid black;
+    border-radius: 1px;
+}
